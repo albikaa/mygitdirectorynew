@@ -1,1 +1,1 @@
-print("hello universe especially milkyway")
+print("hello milkyway")
